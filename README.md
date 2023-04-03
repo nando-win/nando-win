@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nando-win&show_icons=true&theme=transparent)
 
+### Last Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nando-win&repo=jornadadev-React)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nando-win)](https://github.com/anuraghazra/github-readme-stats)
