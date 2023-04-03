@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Contact
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+' alt='Linkedin' height='30' >](https://www.linkedin.com/in/fernando-winston/)
+
+
 ### Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nando-win&show_icons=true&theme=transparent)
@@ -26,3 +31,4 @@ Here are some ideas to get you started:
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nando-win)](https://github.com/anuraghazra/github-readme-stats)
+
