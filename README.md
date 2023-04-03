@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nando-win)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nando-win&show_icons=true&theme=transparent)
